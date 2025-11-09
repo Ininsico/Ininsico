@@ -103,10 +103,5 @@ Product-minded engineer building production ML, secure systems, and high-velocit
   <img src="https://komarev.com/ghpvc/?username=Arslan&color=00b894&style=flat-square" alt="profile views" />
 </p>
 
----
 
-> **To keep this professional + animated:**  
-> 1. Keep the animated header (typing SVG) but use a muted palette (done above).  
-> 2. Use 3–5 pinned repos that showcase production readiness.  
-> 3. Replace placeholders (`your_handle`, `your.email@example.com`) with real links.
 
