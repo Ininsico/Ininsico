@@ -82,9 +82,9 @@ Product-minded engineer building production ML, secure systems, and high-velocit
 
 ## Want to collaborate?
 - GitHub: **[@Arslan](https://github.com/Arslan)**  
-- X / Twitter: **[@your_handle]**  
-- LinkedIn: **[Your Name]**  
-- Email: **your.email@example.com**
+- X / Twitter: **ininsico**  
+- LinkedIn: **ArslanRathore**  
+- Email: **ininsico@gmail.com**
 
 ---
 
