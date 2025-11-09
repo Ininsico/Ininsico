@@ -1,10 +1,5 @@
 <!-- ====== ANIMATED HEADER (SUBTLE + PROFESSIONAL) ====== -->
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Hack&weight=600&size=28&duration=3500&pause=800&color=00b894&background=0b0f14&center=true&vCenter=true&width=700&height=80&lines=Arslan+•+Production+Engineer+%26+Applied+ML;AI+Systems+|+Cyber+Security+|+Reverse+Engineering;Ship+fast.+Scale+clean.+Stay+secure."
-    alt="Arslan — Production Engineer & Applied ML"
-  />
-</p>
+
 
 <p align="center">
   <img alt="role" src="https://img.shields.io/badge/Role-Production%20Engineer%20%2F%20Applied%20ML-informational?style=for-the-badge&logo=github" />
