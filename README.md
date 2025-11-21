@@ -72,7 +72,6 @@ Product-minded engineer building production ML, secure systems, and high-velocit
 
 ---
 
-## Metrics (optional widgets)
 <!-- replace username below with your GH username if different -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ininsico&show_icons=true&locale=en&hide_border=true&theme=dark" alt="Arslan's GitHub stats" />
@@ -82,7 +81,6 @@ Product-minded engineer building production ML, secure systems, and high-velocit
 
 ---
 
-## Footer (small, animated)
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ininsico&color=00b894&style=flat-square" alt="profile views" />
 </p>
