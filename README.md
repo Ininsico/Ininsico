@@ -54,22 +54,6 @@ Product-minded engineer building production ML, secure systems, and high-velocit
 - **Reverse-engineering toolset** — Developed internal tooling for firmware analysis and secure binary triage.  
 - **Observability at scale** — Implemented tracing + metrics + alerting for critical services (SLO-driven).
 
----
-
-## Featured / Pinned projects
-> _Paste repo links under your profile pins. Keep 3 — 5 repos: a production system, an infra-tool, and an educational demo._
-
-- **Production-ML-Infra** — reproducible training pipelines, CI, and deployment manifests.  
-  `github.com/Arslan/production-ml-infra`
-
-- **secure-eval-harness** — adversarial testing and auditing for models (pluggable backends).  
-  `github.com/Arslan/secure-eval-harness`
-
-- **reverser-lab** — curated reverse-engineering toolkit and labs (firmware examples + writeups).  
-  `github.com/Arslan/reverser-lab`
-
-- **mini-products** — fast prototypes that became observability demos / blog posts.  
-  `github.com/Arslan/mini-products`
 
 ---
 
@@ -91,16 +75,16 @@ Product-minded engineer building production ML, secure systems, and high-velocit
 ## Metrics (optional widgets)
 <!-- replace username below with your GH username if different -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arslan&show_icons=true&locale=en&hide_border=true&theme=dark" alt="Arslan's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ininsico&show_icons=true&locale=en&hide_border=true&theme=dark" alt="Arslan's GitHub stats" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arslan&layout=compact&hide_border=true&theme=dark" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ininsico&layout=compact&hide_border=true&theme=dark" alt="Top languages" />
 </p>
 
 ---
 
 ## Footer (small, animated)
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Arslan&color=00b894&style=flat-square" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ininsico&color=00b894&style=flat-square" alt="profile views" />
 </p>
 
 
