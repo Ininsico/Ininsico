@@ -2,31 +2,15 @@
 <div align="center">
 
 <!-- Animated Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Arslan%20Rathore&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Arslan%20Rathore&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Production%20Engineer%20|%20ML%20Systems%20|%20Security%20Researcher&descSize=20&descAlignY=55" width="100%"/>
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Production+Engineer+%7C+Applied+ML+Expert;AI+Systems+%7C+Cyber+Security+%7C+Infrastructure;Building+Reliable+%26+Scalable+Systems;Security+%2B+ML+%2B+DevOps+Architect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=Production+Engineer+%7C+Applied+ML+Expert;AI+Systems+%7C+Cyber+Security+%7C+Infrastructure;Building+Reliable+%26+Scalable+Systems;Security+%2B+ML+%2B+DevOps+Architect" alt="Typing SVG" />
 </p>
 
-<!-- Animated GIF Header -->
-<h1>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>
-  Hi there! I'm Arslan Rathore
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>
-</h1>
-
-<!-- Subtitle with Icons -->
-<h3>
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> 
-  Production Engineer | ML Systems Architect | Security Researcher | DevOps Expert
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
-</h3>
-
-<!-- Professional Banner -->
-<p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5612AQHmbpYRanwhfQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1735300309639?e=2147483647&v=beta&t=OFkHA6D6JoE5n5-TN487s5WIvc15d29IDfUcYdXnCk0" alt="Professional Banner" width="100%"/>
-</p>
+<!-- Professional Animated Banner -->
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
 
 <!-- Badges Row 1 -->
 <p align="center">
@@ -40,9 +24,7 @@
   <a href="https://github.com/ininsico?tab=followers">
     <img src="https://img.shields.io/github/followers/ininsico?label=Followers&style=social" alt="GitHub Followers" />
   </a>
-  <a href="https://github.com/ininsico">
-    <img src="https://komarev.com/ghpvc/?username=ininsico&color=00b894&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=ininsico&color=00b894&style=flat-square&label=Profile+Views" alt="Profile Views" />
   <a href="https://github.com/ininsico?tab=repositories">
     <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" alt="Open Source" />
   </a>
@@ -56,7 +38,7 @@
 
 <!-- ============================== ABOUT ME SECTION ============================== -->
 
-## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="35" /> About Me
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" height="32px"> About Me
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
@@ -100,7 +82,7 @@ technical_background:
 
 <!-- ============================== TECH STACK SECTION ============================== -->
 
-## 🛠️ Tech Stack & Arsenal
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" height="32px"> Tech Stack & Arsenal
 
 <div align="center">
 
@@ -252,7 +234,7 @@ technical_background:
 
 <!-- ============================== CORE EXPERTISE ============================== -->
 
-## 🎯 Core Expertise & Domains
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" height="32px"> Core Expertise & Domains
 
 <table>
 <tr>
@@ -317,7 +299,7 @@ technical_background:
 
 <!-- ============================== PROJECTS & HIGHLIGHTS ============================== -->
 
-## 🚀 Featured Projects & Achievements
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="32px" height="32px"> Featured Projects & Achievements
 
 <div align="center">
 
@@ -427,60 +409,106 @@ Enterprise observability solution:
 
 <!-- ============================== GITHUB STATS ============================== -->
 
-## 📊 GitHub Statistics
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32px" height="32px"> GitHub Statistics
 
 <div align="center">
 
 <!-- Streak Stats -->
-<a href="https://github.com/ininsico/github-readme-streak-stats">
-  <img title="🔥 Streak Stats" alt="Arslan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ininsico&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF"/>
+<a href="https://github.com/ininsico">
+  <img title="🔥 Streak Stats" alt="Arslan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ininsico&theme=react&hide_border=true&stroke=0000&background=0D1117&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF&sideLabels=00D4FF&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
 </a>
 
 <br/><br/>
 
 <!-- GitHub Stats Cards -->
-<a href="https://github.com/ininsico/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ininsico&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=FF6B6B&text_color=c9d1d9" />
+<a href="https://github.com/ininsico">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ininsico&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=FF6B6B&text_color=c9d1d9&rank_icon=github" />
 </a>
-<a href="https://github.com/ininsico/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ininsico&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=c9d1d9&hide=jupyter%20notebook" />
+<a href="https://github.com/ininsico">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ininsico&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=c9d1d9&hide=jupyter%20notebook,html,css" />
 </a>
 
 <br/><br/>
 
 <!-- Contribution Graph -->
-<a href="https://github.com/ininsico/github-readme-activity-graph">
-  <img alt="Arslan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ininsico&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FF6B6B&area=true&area_color=00D4FF" />
+<a href="https://github.com/ininsico">
+  <img alt="Arslan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ininsico&custom_title=Arslan's%20Contribution%20Graph&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FF6B6B&area=true&area_color=00D4FF&title_color=00D4FF&hide_border=true" />
 </a>
 
 <br/><br/>
 
 <!-- Trophy Stats -->
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=ininsico&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" />
+<a href="https://github.com/ininsico">
+  <img src="https://github-profile-trophy.vercel.app/?username=ininsico&theme=discord&no-frame=true&no-bg=false&margin-w=4&column=7&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,MultiLanguage" />
 </a>
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ============================== CONTRIBUTION METRICS ============================== -->
+<!-- ============================== SKILLS VISUALIZATION ============================== -->
 
-## 📈 Detailed Contribution Metrics
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" height="32px"> Skills & Proficiency
 
 <div align="center">
 
-<!-- Contribution Snake -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ininsico/ininsico/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ininsico/ininsico/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ininsico/ininsico/output/github-contribution-grid-snake.svg">
-</picture>
+### **Skill Levels**
 
-<br/><br/>
+| Category | Skill | Proficiency |
+|----------|-------|-------------|
+| **Languages** | Python | ![](https://geps.dev/progress/100?dangerColor=800000&warningColor=ff9900&successColor=00D4FF) |
+| | Rust | ![](https://geps.dev/progress/80?dangerColor=800000&warningColor=ff9900&successColor=00D4FF) |
+| | C# | ![](https://geps.dev/progress/75?dangerColor=800000&warningColor=ff9900&successColor=00D4FF) |
+| | JavaScript/TypeScript | ![](https://geps.dev/progress/70?dangerColor=800000&warningColor=ff9900&successColor=00D4FF) |
+| **ML/AI** | PyTorch | ![](https://geps.dev/progress/100?dangerColor=800000&warningColor=ff9900&successColor=00D4FF) |
+| | TensorFlow | ![](https://geps.dev/progress/75?dangerColor=800000&warningColor=ff9900&successColor=00D4FF) |
+| | MLOps | ![](https://geps.dev/progress/85?dangerColor=800000&warningColor=ff9900&successColor=00D4FF) |
+| | LangChain | ![](https://geps.dev/progress/70?dangerColor=800000&warningColor=ff9900&successColor=00D4FF) |
+| **Security** | Penetration Testing | ![](https://geps.dev/progress/85?dangerColor=800000&warningColor=ff9900&successColor=00D4FF) |
+| | Reverse Engineering | ![](https://geps.dev/progress/80?dangerColor=800000&warningColor=ff9900&successColor=00D4FF) |
+| | Threat Modeling | ![](https://geps.dev/progress/95?dangerColor=800000&warningColor=ff9900&successColor=00D4FF) |
+| **DevOps** | Kubernetes | ![](https://geps.dev/progress/95?dangerColor=800000&warningColor=ff9900&successColor=00D4FF) |
+| | Docker | ![](https://geps.dev/progress/100?dangerColor=800000&warningColor=ff9900&successColor=00D4FF) |
+| | Terraform | ![](https://geps.dev/progress/80?dangerColor=800000&warningColor=ff9900&successColor=00D4FF) |
+| | CI/CD | ![](https://geps.dev/progress/95?dangerColor=800000&warningColor=ff9900&successColor=00D4FF) |
 
-<!-- Metrics -->
-<img src="https://metrics.lecoq.io/ininsico?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&lines=1&achievements=1&notable=1&discussions=1&followup=1&isocalendar=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&discussions.categories=true&isocalendar.duration=half-year&config.timezone=Asia%2FKarachi" alt="Metrics">
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ============================== CODING ACTIVITY ============================== -->
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32px" height="32px"> Coding Activity & Time Stats
+
+<div align="center">
+
+### **Weekly Development Breakdown**
+
+```text
+Python       12 hrs 30 mins  ████████████░░░░░░░░░   45.2%
+Rust          5 hrs 15 mins  ████░░░░░░░░░░░░░░░░░   19.0%
+C#            4 hrs 20 mins  ███░░░░░░░░░░░░░░░░░░   15.7%
+JavaScript    3 hrs 10 mins  ██░░░░░░░░░░░░░░░░░░░   11.5%
+YAML          1 hr 30 mins   █░░░░░░░░░░░░░░░░░░░░    5.4%
+Other         50 mins        ░░░░░░░░░░░░░░░░░░░░░    3.2%
+```
+
+### **Most Used IDEs**
+
+```text
+VS Code           ████████████████░░░░   80%
+Visual Studio     ███░░░░░░░░░░░░░░░░░   15%
+PyCharm           █░░░░░░░░░░░░░░░░░░░    5%
+```
+
+### **Development Focus**
+
+```text
+Backend Development    ██████████░░░░░░░░░░   50%
+ML/AI Engineering      ███████░░░░░░░░░░░░░   35%
+Security Research      ██░░░░░░░░░░░░░░░░░░   10%
+DevOps & Infrastructure █░░░░░░░░░░░░░░░░░░░    5%
+```
 
 </div>
 
@@ -488,7 +516,7 @@ Enterprise observability solution:
 
 <!-- ============================== CURRENT FOCUS ============================== -->
 
-## 🎯 Current Focus & Goals
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="32px" height="32px"> Current Focus & Goals
 
 <table>
 <tr>
@@ -496,11 +524,11 @@ Enterprise observability solution:
 
 ### 🔬 **Technical Goals**
 
-- [ ] Ship containerized ML infra with reproducible experiments
-- [ ] Build secure model evaluation and adversarial testing tools
+- [x] Ship containerized ML infra with reproducible experiments
+- [x] Build secure model evaluation and adversarial testing tools
 - [ ] Implement comprehensive observability stack
 - [ ] Develop high-velocity DevOps workflows
-- [ ] Create production-ready AI systems with monitoring
+- [x] Create production-ready AI systems with monitoring
 - [ ] Contribute to open-source ML/security projects
 - [ ] Write technical blog posts on engineering trade-offs
 - [ ] Build automated security scanning pipelines
@@ -513,10 +541,10 @@ Enterprise observability solution:
 - [ ] Advanced Kubernetes patterns (operators, CRDs)
 - [ ] eBPF for security and observability
 - [ ] Cutting-edge ML architectures (transformers, diffusion)
-- [ ] Rust for systems programming
+- [x] Rust for systems programming
 - [ ] Cloud-native security best practices
 - [ ] Distributed systems design patterns
-- [ ] Advanced threat modeling techniques
+- [x] Advanced threat modeling techniques
 - [ ] Performance engineering at scale
 
 </td>
@@ -553,7 +581,7 @@ class EngineeringPhilosophy:
 
 <!-- ============================== BLOG & WRITING ============================== -->
 
-## 📝 Latest Blog Posts & Articles
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="32px" height="32px"> Latest Blog Posts & Articles
 
 <!-- BLOG-POST-LIST:START -->
 - 🔒 **Building Secure ML Pipelines** - Best practices for production AI security
@@ -561,33 +589,66 @@ class EngineeringPhilosophy:
 - 🔍 **Reverse Engineering IoT Firmware** - A practical guide to vulnerability research
 - 📊 **Observability at Scale** - Implementing SLO-driven monitoring
 - 🤖 **MLOps Best Practices** - From experiment to production
+- 🛡️ **Threat Modeling for Modern Applications** - STRIDE methodology deep dive
+- ⚡ **Performance Optimization Techniques** - Profiling and scaling strategies
+- 🔐 **Security Automation with SOAR** - Building automated response systems
 <!-- BLOG-POST-LIST:END -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ============================== CERTIFICATIONS ============================== -->
 
-## 🏆 Certifications & Achievements
+## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="32px" height="32px"> Certifications & Achievements
 
 <div align="center">
 
-| Certification | Issuer | Year |
-|--------------|--------|------|
-| 🎓 **Certified Kubernetes Administrator (CKA)** | CNCF | 2024 |
-| 🎓 **AWS Solutions Architect** | Amazon | 2024 |
-| 🎓 **Offensive Security Certified Professional (OSCP)** | Offensive Security | 2023 |
-| 🎓 **TensorFlow Developer Certificate** | Google | 2023 |
-| 🎓 **Certified Ethical Hacker (CEH)** | EC-Council | 2023 |
-| 🎓 **Azure Security Engineer** | Microsoft | 2024 |
+| Certification | Issuer | Year | Badge |
+|--------------|--------|------|-------|
+| **Certified Kubernetes Administrator (CKA)** | CNCF | 2024 | 🎓 |
+| **AWS Solutions Architect** | Amazon | 2024 | 🎓 |
+| **Offensive Security Certified Professional (OSCP)** | Offensive Security | 2023 | 🎓 |
+| **TensorFlow Developer Certificate** | Google | 2023 | 🎓 |
+| **Certified Ethical Hacker (CEH)** | EC-Council | 2023 | 🎓 |
+| **Azure Security Engineer** | Microsoft | 2024 | 🎓 |
 
 ### 🌟 **Notable Achievements**
 
-- 🏅 **8 CVEs Discovered** - Security vulnerabilities in IoT devices
-- 🏅 **15+ Open Source Contributions** - Major ML and security projects
-- 🏅 **99.95% Uptime** - Production systems under my management
-- 🏅 **85% Deployment Time Reduction** - Through automation and CI/CD
-- 🏅 **10,000+ Lines of Production Code** - Across multiple languages
-- 🏅 **Speaker at 3 Tech Conferences** - ML security and DevOps topics
+<table>
+<tr>
+<td align="center" width="33%">
+  <img src="https://img.icons8.com/color/96/000000/security-checked.png" width="60"/><br/>
+  <b>8 CVEs Discovered</b><br/>
+  Security vulnerabilities<br/>in IoT devices
+</td>
+<td align="center" width="33%">
+  <img src="https://img.icons8.com/color/96/000000/github.png" width="60"/><br/>
+  <b>15+ OSS Contributions</b><br/>
+  Major ML and<br/>security projects
+</td>
+<td align="center" width="33%">
+  <img src="https://img.icons8.com/color/96/000000/rocket.png" width="60"/><br/>
+  <b>99.95% Uptime</b><br/>
+  Production systems<br/>under management
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+  <img src="https://img.icons8.com/color/96/000000/speed.png" width="60"/><br/>
+  <b>85% Time Reduction</b><br/>
+  Through automation<br/>and CI/CD
+</td>
+<td align="center" width="33%">
+  <img src="https://img.icons8.com/color/96/000000/code.png" width="60"/><br/>
+  <b>10,000+ Lines</b><br/>
+  Production code<br/>across languages
+</td>
+<td align="center" width="33%">
+  <img src="https://img.icons8.com/color/96/000000/conference-call.png" width="60"/><br/>
+  <b>3 Tech Conferences</b><br/>
+  Speaker on ML security<br/>and DevOps
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -595,7 +656,7 @@ class EngineeringPhilosophy:
 
 <!-- ============================== CONNECT SECTION ============================== -->
 
-## 🤝 Let's Connect & Collaborate!
+## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="32px" height="32px"> Let's Connect & Collaborate!
 
 <div align="center">
 
@@ -681,7 +742,7 @@ class EngineeringPhilosophy:
 
 <!-- ============================== SUPPORT SECTION ============================== -->
 
-## ☕ Support My Work
+## <img src="https://user-images.githubusercontent.com/74038190/216122003-15d1c5a7-be3a-4e5e-9f3e-5d5e4e0b6f3e.png" width="32px" height="32px"> Support My Work
 
 <div align="center">
 
@@ -709,39 +770,9 @@ If you find my work valuable and want to support my open-source contributions:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ============================== VISITOR STATS ============================== -->
-
-## 📊 Profile Analytics
-
-<div align="center">
-
-### **Profile Views Counter**
-
-<img src="https://count.getloli.com/@:ininsico?theme=booru-twifanartsfw&padding=7&scale=1&align=top&pixelated=1&darkmode=auto" />
-
-<br/><br/>
-
-### **Visitor Map**
-
-<img src="https://profile-counter.glitch.me/ininsico/count.svg" alt="Visitor Count" />
-
-<br/><br/>
-
-<!-- GitHub Profile Details -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ininsico&theme=github_dark" alt="Profile Details" />
-
-<br/><br/>
-
-<!-- Productive Time -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ininsico&theme=github_dark&utcOffset=5" alt="Productive Time" />
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 <!-- ============================== QUOTES & INSPIRATION ============================== -->
 
-## 💭 Daily Inspiration
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="32px" height="32px"> Daily Inspiration
 
 <div align="center">
 
@@ -770,153 +801,13 @@ If you find my work valuable and want to support my open-source contributions:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ============================== SKILLS VISUALIZATION ============================== -->
-
-## 🎨 Skills Visualization
-
-<div align="center">
-
-### **Technology Radar**
-
-```mermaid
-mindmap
-  root((Arslan<br/>Rathore))
-    AI/ML
-      PyTorch
-      TensorFlow
-      MLOps
-      LangChain
-      Transformers
-    Security
-      Penetration Testing
-      Reverse Engineering
-      Threat Modeling
-      Incident Response
-      SIEM
-    DevOps
-      Kubernetes
-      Docker
-      Terraform
-      CI/CD
-      Monitoring
-    Backend
-      Python
-      Rust
-      C#
-      FastAPI
-      Django
-    Cloud
-      AWS
-      Azure
-      GCP
-      Serverless
-```
-
-### **Skill Levels**
-
-| Category | Skill | Proficiency |
-|----------|-------|-------------|
-| **Languages** | Python | ████████████████████ 100% |
-| | Rust | ████████████████░░░░ 80% |
-| | C# | ███████████████░░░░░ 75% |
-| | JavaScript/TypeScript | ██████████████░░░░░░ 70% |
-| **ML/AI** | PyTorch | ████████████████████ 100% |
-| | TensorFlow | ███████████████░░░░░ 75% |
-| | MLOps | ████████████████░░░░ 80% |
-| | LangChain | ██████████████░░░░░░ 70% |
-| **Security** | Penetration Testing | ████████████████░░░░ 80% |
-| | Reverse Engineering | ███████████████░░░░░ 75% |
-| | Threat Modeling | ████████████████████ 100% |
-| **DevOps** | Kubernetes | ████████████████████ 100% |
-| | Docker | ████████████████████ 100% |
-| | Terraform | ███████████████░░░░░ 75% |
-| | CI/CD | ████████████████████ 100% |
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ============================== CODING ACTIVITY ============================== -->
-
-## ⏱️ Coding Activity & Time Stats
-
-<div align="center">
-
-<!-- WakaTime Stats -->
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=ininsico&theme=react&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=c9d1d9&layout=compact" alt="WakaTime Stats" />
-
-<br/><br/>
-
-### **Weekly Development Breakdown**
-
-```text
-Python       12 hrs 30 mins  ████████████░░░░░░░░░   45.2%
-Rust          5 hrs 15 mins  ████░░░░░░░░░░░░░░░░░   19.0%
-C#            4 hrs 20 mins  ███░░░░░░░░░░░░░░░░░░   15.7%
-JavaScript    3 hrs 10 mins  ██░░░░░░░░░░░░░░░░░░░   11.5%
-YAML          1 hr 30 mins   █░░░░░░░░░░░░░░░░░░░░    5.4%
-Other         50 mins        ░░░░░░░░░░░░░░░░░░░░░    3.2%
-```
-
-### **Most Used IDEs**
-
-```text
-VS Code           ████████████████░░░░   80%
-Visual Studio     ███░░░░░░░░░░░░░░░░░   15%
-PyCharm           █░░░░░░░░░░░░░░░░░░░    5%
-```
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ============================== REPOSITORIES ============================== -->
-
-## 📦 Pinned Repositories
-
-<div align="center">
-
-<a href="https://github.com/ininsico/ghost-cloud">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ininsico&repo=ghost-cloud&theme=react&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=FF6B6B&text_color=c9d1d9" />
-</a>
-
-<a href="https://github.com/ininsico/ml-pipeline">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ininsico&repo=ml-pipeline&theme=react&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=FF6B6B&text_color=c9d1d9" />
-</a>
-
-<a href="https://github.com/ininsico/security-toolkit">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ininsico&repo=security-toolkit&theme=react&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=FF6B6B&text_color=c9d1d9" />
-</a>
-
-<a href="https://github.com/ininsico/devops-automation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ininsico&repo=devops-automation&theme=react&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=FF6B6B&text_color=c9d1d9" />
-</a>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ============================== CONTRIBUTION SNAKE ============================== -->
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ininsico/ininsico/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ininsico/ininsico/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ininsico/ininsico/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 <!-- ============================== FOOTER ============================== -->
 
 <div align="center">
 
 ### **Arslan Rathore**
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 > *A dedicated engineer focused on production-ready systems, security, and meaningful collaborations.*
 
@@ -925,7 +816,7 @@ PyCharm           █░░░░░░░░░░░░░░░░░░░  
 <br/>
 
 <!-- Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
 ### ⭐ **If you find my work valuable, consider starring my repositories!** ⭐
 
