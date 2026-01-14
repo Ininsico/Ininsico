@@ -297,260 +297,6 @@ technical_background:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ============================== PROJECTS & HIGHLIGHTS ============================== -->
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="32px" height="32px"> Featured Projects & Achievements
-
-<div align="center">
-
-### 🌟 **Major Projects**
-
-</div>
-
-<details open>
-<summary><b>🎮 Ghost Cloud Platform</b> - Decentralized Compute Network</summary>
-<br>
-
-**Tech Stack:** `Blazor` `C#` `.NET` `SignalR` `WebRTC` `Docker` `PostgreSQL`
-
-A revolutionary decentralized compute platform that enables:
-- **Real-time Resource Sharing** - Connect multiple devices to share RAM/CPU
-- **ML Training Infrastructure** - Distributed model training across nodes
-- **Cloud Gaming** - Low-latency game streaming
-- **Compute Marketplace** - Monetize idle computing resources
-- **Live Monitoring** - Real-time metrics and node health tracking
-
-**Key Features:**
-- ✅ Real-time node connection via SignalR
-- ✅ Dynamic resource allocation and load balancing
-- ✅ Professional dashboard with Kaggle-inspired UI
-- ✅ User authentication and profile management
-- ✅ Task distribution and execution engine
-
-**Impact:** Reduced deployment time from weeks to hours with full observability
-
-</details>
-
-<details>
-<summary><b>🔒 Production ML Pipeline</b> - Automated Training & Deployment</summary>
-<br>
-
-**Tech Stack:** `Python` `PyTorch` `Docker` `Kubernetes` `MLflow` `Prometheus`
-
-Enterprise-grade ML pipeline with:
-- **Reproducible Experiments** - Version control for data, code, and models
-- **Automated Training** - Scheduled retraining with data drift detection
-- **CI/CD Integration** - Automated testing and deployment
-- **Model Monitoring** - Performance tracking, alerting, SLO-driven
-- **A/B Testing** - Gradual rollout with traffic splitting
-
-**Achievements:**
-- 🎯 Reduced deployment time by 85%
-- 🎯 Improved model accuracy by 12% through automated retraining
-- 🎯 Zero-downtime deployments with blue-green strategy
-
-</details>
-
-<details>
-<summary><b>🛡️ Secure Model Evaluation Framework</b> - Adversarial Testing</summary>
-<br>
-
-**Tech Stack:** `Python` `PyTorch` `FastAPI` `Docker` `PostgreSQL`
-
-Comprehensive security testing for ML models:
-- **Adversarial Attacks** - FGSM, PGD, C&W, DeepFool
-- **Robustness Metrics** - Accuracy under attack, certified defenses
-- **Audit Trails** - Complete logging of all evaluations
-- **Automated Reporting** - PDF reports with visualizations
-- **Defense Mechanisms** - Adversarial training, input sanitization
-
-**Impact:** Identified and fixed 15+ critical vulnerabilities in production models
-
-</details>
-
-<details>
-<summary><b>🔧 Reverse Engineering Toolset</b> - Firmware Analysis Suite</summary>
-<br>
-
-**Tech Stack:** `Python` `Rust` `IDA Pro` `Ghidra` `Radare2`
-
-Internal tooling for security research:
-- **Binary Analysis** - Automated vulnerability detection
-- **Firmware Extraction** - IoT device analysis
-- **Exploit Generation** - PoC automation
-- **Malware Analysis** - Behavioral analysis sandbox
-- **Reporting** - Automated vulnerability reports
-
-**Achievements:**
-- 🔍 Discovered 8 CVEs in IoT devices
-- 🔍 Reduced analysis time by 70%
-- 🔍 Automated 90% of repetitive tasks
-
-</details>
-
-<details>
-<summary><b>📊 Observability Platform</b> - SLO-Driven Monitoring</summary>
-<br>
-
-**Tech Stack:** `Prometheus` `Grafana` `Jaeger` `ELK Stack` `Kubernetes`
-
-Enterprise observability solution:
-- **Metrics Collection** - Custom exporters for all services
-- **Distributed Tracing** - End-to-end request tracking
-- **Log Aggregation** - Centralized logging with search
-- **Alerting** - Smart alerts based on SLOs
-- **Dashboards** - Real-time visualization
-
-**Impact:** Reduced MTTR by 60%, improved uptime to 99.95%
-
-</details>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ============================== GITHUB STATS ============================== -->
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32px" height="32px"> GitHub Statistics
-
-<div align="center">
-
-<!-- Streak Stats -->
-<a href="https://github.com/ininsico">
-  <img title="🔥 Streak Stats" alt="Arslan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ininsico&theme=react&hide_border=true&stroke=0000&background=0D1117&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF&sideLabels=00D4FF&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
-</a>
-
-<br/><br/>
-
-<!-- GitHub Stats Cards -->
-<a href="https://github.com/ininsico">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ininsico&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=FF6B6B&text_color=c9d1d9&rank_icon=github" />
-</a>
-<a href="https://github.com/ininsico">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ininsico&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=c9d1d9&hide=jupyter%20notebook,html,css" />
-</a>
-
-<br/><br/>
-
-<!-- Contribution Graph -->
-<a href="https://github.com/ininsico">
-  <img alt="Arslan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ininsico&custom_title=Arslan's%20Contribution%20Graph&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FF6B6B&area=true&area_color=00D4FF&title_color=00D4FF&hide_border=true" />
-</a>
-
-<br/><br/>
-
-<!-- Trophy Stats -->
-<a href="https://github.com/ininsico">
-  <img src="https://github-profile-trophy.vercel.app/?username=ininsico&theme=discord&no-frame=true&no-bg=false&margin-w=4&column=7&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,MultiLanguage" />
-</a>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ============================== SKILLS VISUALIZATION ============================== -->
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" height="32px"> Skills & Proficiency
-
-<div align="center">
-
-### **Skill Levels**
-
-| Category | Skill | Proficiency |
-|----------|-------|-------------|
-| **Languages** | Python | ![](https://geps.dev/progress/100?dangerColor=800000&warningColor=ff9900&successColor=00D4FF) |
-| | Rust | ![](https://geps.dev/progress/80?dangerColor=800000&warningColor=ff9900&successColor=00D4FF) |
-| | C# | ![](https://geps.dev/progress/75?dangerColor=800000&warningColor=ff9900&successColor=00D4FF) |
-| | JavaScript/TypeScript | ![](https://geps.dev/progress/70?dangerColor=800000&warningColor=ff9900&successColor=00D4FF) |
-| **ML/AI** | PyTorch | ![](https://geps.dev/progress/100?dangerColor=800000&warningColor=ff9900&successColor=00D4FF) |
-| | TensorFlow | ![](https://geps.dev/progress/75?dangerColor=800000&warningColor=ff9900&successColor=00D4FF) |
-| | MLOps | ![](https://geps.dev/progress/85?dangerColor=800000&warningColor=ff9900&successColor=00D4FF) |
-| | LangChain | ![](https://geps.dev/progress/70?dangerColor=800000&warningColor=ff9900&successColor=00D4FF) |
-| **Security** | Penetration Testing | ![](https://geps.dev/progress/85?dangerColor=800000&warningColor=ff9900&successColor=00D4FF) |
-| | Reverse Engineering | ![](https://geps.dev/progress/80?dangerColor=800000&warningColor=ff9900&successColor=00D4FF) |
-| | Threat Modeling | ![](https://geps.dev/progress/95?dangerColor=800000&warningColor=ff9900&successColor=00D4FF) |
-| **DevOps** | Kubernetes | ![](https://geps.dev/progress/95?dangerColor=800000&warningColor=ff9900&successColor=00D4FF) |
-| | Docker | ![](https://geps.dev/progress/100?dangerColor=800000&warningColor=ff9900&successColor=00D4FF) |
-| | Terraform | ![](https://geps.dev/progress/80?dangerColor=800000&warningColor=ff9900&successColor=00D4FF) |
-| | CI/CD | ![](https://geps.dev/progress/95?dangerColor=800000&warningColor=ff9900&successColor=00D4FF) |
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ============================== CODING ACTIVITY ============================== -->
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32px" height="32px"> Coding Activity & Time Stats
-
-<div align="center">
-
-### **Weekly Development Breakdown**
-
-```text
-Python       12 hrs 30 mins  ████████████░░░░░░░░░   45.2%
-Rust          5 hrs 15 mins  ████░░░░░░░░░░░░░░░░░   19.0%
-C#            4 hrs 20 mins  ███░░░░░░░░░░░░░░░░░░   15.7%
-JavaScript    3 hrs 10 mins  ██░░░░░░░░░░░░░░░░░░░   11.5%
-YAML          1 hr 30 mins   █░░░░░░░░░░░░░░░░░░░░    5.4%
-Other         50 mins        ░░░░░░░░░░░░░░░░░░░░░    3.2%
-```
-
-### **Most Used IDEs**
-
-```text
-VS Code           ████████████████░░░░   80%
-Visual Studio     ███░░░░░░░░░░░░░░░░░   15%
-PyCharm           █░░░░░░░░░░░░░░░░░░░    5%
-```
-
-### **Development Focus**
-
-```text
-Backend Development    ██████████░░░░░░░░░░   50%
-ML/AI Engineering      ███████░░░░░░░░░░░░░   35%
-Security Research      ██░░░░░░░░░░░░░░░░░░   10%
-DevOps & Infrastructure █░░░░░░░░░░░░░░░░░░░    5%
-```
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ============================== CURRENT FOCUS ============================== -->
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="32px" height="32px"> Current Focus & Goals
-
-<table>
-<tr>
-<td width="50%">
-
-### 🔬 **Technical Goals**
-
-- [x] Ship containerized ML infra with reproducible experiments
-- [x] Build secure model evaluation and adversarial testing tools
-- [ ] Implement comprehensive observability stack
-- [ ] Develop high-velocity DevOps workflows
-- [x] Create production-ready AI systems with monitoring
-- [ ] Contribute to open-source ML/security projects
-- [ ] Write technical blog posts on engineering trade-offs
-- [ ] Build automated security scanning pipelines
-
-</td>
-<td width="50%">
-
-### 📚 **Learning & Growth**
-
-- [ ] Advanced Kubernetes patterns (operators, CRDs)
-- [ ] eBPF for security and observability
-- [ ] Cutting-edge ML architectures (transformers, diffusion)
-- [x] Rust for systems programming
-- [ ] Cloud-native security best practices
-- [ ] Distributed systems design patterns
-- [x] Advanced threat modeling techniques
-- [ ] Performance engineering at scale
-
-</td>
-</tr>
-</table>
-
 ### 💡 **Philosophy & Approach**
 
 ```python
@@ -598,61 +344,6 @@ class EngineeringPhilosophy:
 
 <!-- ============================== CERTIFICATIONS ============================== -->
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="32px" height="32px"> Certifications & Achievements
-
-<div align="center">
-
-| Certification | Issuer | Year | Badge |
-|--------------|--------|------|-------|
-| **Certified Kubernetes Administrator (CKA)** | CNCF | 2024 | 🎓 |
-| **AWS Solutions Architect** | Amazon | 2024 | 🎓 |
-| **Offensive Security Certified Professional (OSCP)** | Offensive Security | 2023 | 🎓 |
-| **TensorFlow Developer Certificate** | Google | 2023 | 🎓 |
-| **Certified Ethical Hacker (CEH)** | EC-Council | 2023 | 🎓 |
-| **Azure Security Engineer** | Microsoft | 2024 | 🎓 |
-
-### 🌟 **Notable Achievements**
-
-<table>
-<tr>
-<td align="center" width="33%">
-  <img src="https://img.icons8.com/color/96/000000/security-checked.png" width="60"/><br/>
-  <b>8 CVEs Discovered</b><br/>
-  Security vulnerabilities<br/>in IoT devices
-</td>
-<td align="center" width="33%">
-  <img src="https://img.icons8.com/color/96/000000/github.png" width="60"/><br/>
-  <b>15+ OSS Contributions</b><br/>
-  Major ML and<br/>security projects
-</td>
-<td align="center" width="33%">
-  <img src="https://img.icons8.com/color/96/000000/rocket.png" width="60"/><br/>
-  <b>99.95% Uptime</b><br/>
-  Production systems<br/>under management
-</td>
-</tr>
-<tr>
-<td align="center" width="33%">
-  <img src="https://img.icons8.com/color/96/000000/speed.png" width="60"/><br/>
-  <b>85% Time Reduction</b><br/>
-  Through automation<br/>and CI/CD
-</td>
-<td align="center" width="33%">
-  <img src="https://img.icons8.com/color/96/000000/code.png" width="60"/><br/>
-  <b>10,000+ Lines</b><br/>
-  Production code<br/>across languages
-</td>
-<td align="center" width="33%">
-  <img src="https://img.icons8.com/color/96/000000/conference-call.png" width="60"/><br/>
-  <b>3 Tech Conferences</b><br/>
-  Speaker on ML security<br/>and DevOps
-</td>
-</tr>
-</table>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ============================== CONNECT SECTION ============================== -->
 
@@ -669,7 +360,7 @@ class EngineeringPhilosophy:
   <a href="https://twitter.com/ininsico" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://www.linkedin.com/in/arslanrathore/" target="_blank">
+  <a href="https://www.linkedin.com/in/arslan-rathore-ininsico/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:ininsico@gmail.com" target="_blank">
@@ -678,20 +369,11 @@ class EngineeringPhilosophy:
   <a href="https://dev.to/ininsico" target="_blank">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
   </a>
-  <a href="https://medium.com/@ininsico" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-  </a>
-  <a href="https://stackoverflow.com/users/ininsico" target="_blank">
-    <img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
-  </a>
   <a href="https://www.youtube.com/@ininsico" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
   <a href="https://discord.gg/ininsico" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  <a href="https://t.me/ininsico" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </p>
 
@@ -731,44 +413,14 @@ class EngineeringPhilosophy:
 | Platform | Handle | Response Time |
 |----------|--------|---------------|
 | 📧 Email | ininsico@gmail.com | < 24 hours |
-| 💼 LinkedIn | [@arslanrathore](https://linkedin.com/in/arslanrathore) | < 48 hours |
-| 🐦 Twitter | [@ininsico](https://twitter.com/ininsico) | < 12 hours |
+| 💼 LinkedIn | [@arslanrathore](https://linkedin.com/in/arslanrathore) | < 4 hours |
+| 🐦 Twitter | [@ininsico](https://twitter.com/ininsico) | < 1 hours |
 | 💬 Discord | ininsico#0000 | Real-time |
-| 📱 Telegram | [@ininsico](https://t.me/ininsico) | Real-time |
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ============================== SUPPORT SECTION ============================== -->
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122003-15d1c5a7-be3a-4e5e-9f3e-5d5e4e0b6f3e.png" width="32px" height="32px"> Support My Work
-
-<div align="center">
-
-If you find my work valuable and want to support my open-source contributions:
-
-<p>
-  <a href="https://www.buymeacoffee.com/ininsico" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" />
-  </a>
-  <a href="https://ko-fi.com/ininsico" target="_blank">
-    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" alt="Ko-fi" height="50" />
-  </a>
-  <a href="https://www.patreon.com/ininsico" target="_blank">
-    <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" alt="Patreon" height="50" />
-  </a>
-</p>
-
-**Your support helps me:**
-- 🚀 Build more open-source tools
-- 📚 Create educational content
-- 🔬 Conduct security research
-- 💡 Experiment with new technologies
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ============================== QUOTES & INSPIRATION ============================== -->
 
