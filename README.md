@@ -2,7 +2,7 @@
 <div align="center">
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=Production+Engineer+%7C+Applied+ML+Expert;AI+Systems+%7C+Cyber+Security+%7C+Infrastructure;Building+Reliable+%26+Scalable+Systems;Security+%2B+ML+%2B+DevOps+Architect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=Production+Engineer+%7C+Applied+ML+Expert;AI+Systems+%7C+Infrastructure;Building+Reliable+%26+Scalable+Systems;" alt="Typing SVG" />
 </p>
 
 <!-- Professional Animated Banner -->
